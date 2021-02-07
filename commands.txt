@@ -1,0 +1,4 @@
+./gensort -a [no of rows] [input file name]
+python3 sort.py input.txt output.txt 100000 5 asc a b
+python3 sort.py input.txt output.txt 100000 asc a b
+
